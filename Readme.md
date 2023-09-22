@@ -4,10 +4,10 @@
 - Subordinates
 - Tree Matching
 - Tree Diameter
-### Todo List
 - Tree Distances I
 - Tree Distances II
 - Company Queries I
+### Todo List
 - Company Queries II
 - Distance Queries
 - Counting Paths
