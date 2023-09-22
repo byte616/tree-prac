@@ -7,8 +7,8 @@
 - Tree Distances I
 - Tree Distances II
 - Company Queries I
-### Todo List
 - Company Queries II
+### Todo List
 - Distance Queries
 - Counting Paths
 - Subtree Queries
