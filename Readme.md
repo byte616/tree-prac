@@ -1,11 +1,10 @@
 ## CSES Tree Algorithms
 
 ### Complete List
-
-### Todo List
 - Subordinates
 - Tree Matching
 - Tree Diameter
+### Todo List
 - Tree Distances I
 - Tree Distances II
 - Company Queries I
