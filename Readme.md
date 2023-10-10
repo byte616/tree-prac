@@ -12,10 +12,10 @@
 - Counting Paths
 - Subtree Queries
 - Distinct Colors
+- Finding a Centroid
 ### Todo List
 - Path Queries
 - Path Queries II
-- Finding a Centroid
 - Fixed-Length Paths I
 - Fixed-Length Paths II
 
