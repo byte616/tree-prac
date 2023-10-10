@@ -8,10 +8,10 @@
 - Tree Distances II
 - Company Queries I
 - Company Queries II
-### Todo List
 - Distance Queries
 - Counting Paths
 - Subtree Queries
+### Todo List
 - Path Queries
 - Path Queries II
 - Distinct Colors
