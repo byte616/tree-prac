@@ -11,10 +11,10 @@
 - Distance Queries
 - Counting Paths
 - Subtree Queries
+- Distinct Colors
 ### Todo List
 - Path Queries
 - Path Queries II
-- Distinct Colors
 - Finding a Centroid
 - Fixed-Length Paths I
 - Fixed-Length Paths II
